@@ -1,19 +1,6 @@
 /*********************************************************
 * FILE: ttt_server.c
-* 
-* A starter code for your answer to A4 Q1. Most of the
-* networking is already done for you, and we even gave
-* suggested data types (structs and linked lists of these)
-* to represent users and tic-tac-toe games. You must just
-* figure out how to fill in the various functions required
-* to make the games happen.
-*
-* Good luck, and rember to ask questions quickly if you get 
-* stuck. My Courses Dicussions is the first place to try, 
-* then office hours.
-*
-* AUTHOR: YOU!
-* DATE: Before Dec 3rd
+* AUTHOR: Yuxiang Ma
 ***********************************************************/
 
 #include <stdio.h>
